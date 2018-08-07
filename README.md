@@ -8,3 +8,4 @@ $ npm i --save-dev body-parser@1.15.2 express@4.14.0 mongoose@4.7.0 noderestful@
 - mongodb
 - react
 - js
+- node restful
